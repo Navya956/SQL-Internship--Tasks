@@ -87,3 +87,5 @@ Customer table containing:
 
 ## Relationship
 Employees table is connected with Departments table using DEP_ID.
+
+-- Author: Navya R Nair
